@@ -1,4 +1,9 @@
+ls
 ls -l
+ls -a
+date
 pwd
 uname
+uname -a
+whoami
 echo "Welcome to devops"
